@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Petrea Andrei</h1>
-<h3 align="center">An innovative, hard-working and goal-oriented computer science student, dreaming about operating systems, fluent in English, flexible in any work environment, with excellent teamwork and interpersonal capabilities, with a comprehensive portfolio of projects, being adept in both high-level applications and low-level software and a desire to further challenge themselves</h3>
+<h3 align="center"> A creative, diligent, and ambitious computer science student with a deep passion for AI and cybersecurity. Proficient in English and adaptable to any work setting, possessing outstanding teamwork skills and interpersonal abilities, with an extensive portfolio of projects, demonstrating proficiency in both high-level applications and low-level software. Always eager to push my boundaries and take on new challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=regelepuma&label=Profile%20views&color=0e75b6&style=flat" alt="regelepuma" /> </p>
 
